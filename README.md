@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[img190](https://github.com/user-attachments/assets/417ef750-1d6d-48a2-b3e4-7fb0e8f8af80)?text=👋" alt="Profile Image" style="border-radius: 50%;">
+  <img src="[img190](https://drive.google.com/file/d/1o9bEao1Oql7zvbBn0FRCXkt65ibSLLLI/view?usp=sharing)?text=👋" alt="Profile Image" style="border-radius: 50%;">
   <h1>Hi there, I'm Fifaliana! 🚀</h1>
 </div>
 
